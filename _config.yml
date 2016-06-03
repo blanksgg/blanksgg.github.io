@@ -7,7 +7,6 @@
 
 # Site settings
 title: Blanksgg's blog
-email: blanksgg@gmail.com
 description: > # thoughts and skills.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blanksgg.github.io" # the base hostname & protocol for your site
