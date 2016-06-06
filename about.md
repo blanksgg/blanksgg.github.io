@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Blanksgg认为自己是一只robot。
+Blanksgg's site.
